@@ -1,6 +1,6 @@
-# Training Log Author List
+# Training Log
 
-## Todo
+## Introduction
 
 ## Description
 
