@@ -1,8 +1,11 @@
-# Training Log
+# Training Log Author List
+
+## Todo
+
+- 해외, 국내로 파일을 분리해서 4개로 만들기
+- 리스트에 sns링크 추가하기
 
 ## Introduction
-
-## Description
 
 - `blog.yml`, `youtube.yml`파일에 PR을 넣는다.
 - [training-rss-feed](https://github.com/Yangeok/training-rss-feed)에서 자체로직을 수행한다
